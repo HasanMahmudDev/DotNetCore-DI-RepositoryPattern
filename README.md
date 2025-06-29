@@ -30,7 +30,7 @@ This project demonstrates how to use Dependency Injection (DI) and Repository Pa
 
 **Md. Hasan Mahmud**  
 🇧🇩 Software Engineer from Bangladesh  
-💼 5+ years of experience in .NET Core, C#, Web Development  
+💼 3+ years of experience in .NET Core, C#, Web Development  
 🌐 [Portfolio Website](https://your-portfolio-link.com)  
 📧 Email: your.email@example.com  
 🐙 GitHub: [github.com/hasanmahmuddev](https://github.com/hasanmahmuddev)  
