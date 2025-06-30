@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|e:\\02_psbyhasan\\dotnetcore-di-repositorypattern\\myapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D80BF5B-A6D9-464E-9988-3FD634394515}|MyApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
               "ToolTip": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-29T16:10:28.092Z",
               "IsPinned": true,
@@ -48,16 +56,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T16:10:58.942Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:36:31.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:34:50.029Z",
               "EditorCaption": ""
             },
             {
@@ -82,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Delete.cshtml",
@@ -95,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
@@ -108,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
               "ToolTip": "E:\\02_PSbyHasan\\DotNetCore-DI-RepositoryPattern\\MyApp\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-29T18:20:18.158Z",
               "EditorCaption": ""
