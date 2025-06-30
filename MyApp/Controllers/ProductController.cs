@@ -14,10 +14,12 @@ namespace MyApp.Controllers
         }
 
         public IActionResult Index() => View(_repo.GetAll());
-
+        // GET: Product/Create
         public IActionResult Create() => View();
 
+        // POST: Product/Create
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(Product product)
         {
             if (ModelState.IsValid)
